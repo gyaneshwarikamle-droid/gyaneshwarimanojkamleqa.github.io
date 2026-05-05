@@ -40,7 +40,7 @@ export default function Portfolio() {
       <header className="bg-blue-800 text-white py-16 px-6 text-center shadow-lg">
         <h1 className="text-5xl font-bold mb-4">Gyaneshwari Kamle</h1>
         <p className="text-xl font-medium">
-          Quality Test Analyst | Selenium Automation Engineer
+          Quality Test Analyst | Manual and Automation Tester
         </p>
         <p className="mt-4 text-lg">Bengaluru, Karnataka</p>
       </header>
@@ -50,7 +50,7 @@ export default function Portfolio() {
         <div className="bg-white rounded-3xl shadow-md p-8">
           <h2 className="text-3xl font-bold mb-6">About Me</h2>
           <p className="text-lg leading-8">
-            I have 3.1 years of experience as a Quality Test Analyst at Cognizant
+            I have 3.2 years of experience as a Quality Test Analyst at Cognizant
             Technology Solutions, specializing in Quality Engineering and
             Assurance (QEA). I possess hands-on experience in test automation
             using Selenium with Java, along with strong expertise in manual
